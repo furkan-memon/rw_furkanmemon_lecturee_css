@@ -1,0 +1,43 @@
+
+*{
+    
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+body{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.chessbord{
+    height: 661px;
+    width: 661px;
+    border: 10px solid #636460;
+    margin: 20px;
+    
+}
+.grey{
+    float: left;
+
+    height: 80px;
+    width: 80px;
+    background: #eeeed2;
+   font-size: 50px;
+   text-align: center;
+   display: inline-block;
+     vertical-align:middle;
+
+
+}
+.green{
+    height: 80px;
+    width: 80px;
+    float: left;
+    background: #769656;
+    font-size: 50px;
+    text-align: center;
+    display: inline-block;
+     vertical-align:middle;
+
+}
