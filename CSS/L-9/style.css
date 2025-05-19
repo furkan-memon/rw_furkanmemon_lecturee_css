@@ -1,0 +1,174 @@
+.box{
+  border: 2px solid black;
+  height: 200px;
+  width:900px;
+  display: flex;
+}.item1{
+  display: flex;
+  background-color: darkcyan;
+  flex-grow: 1;
+ /* height: 200px;
+  width : 200px;*/
+}
+.item2{
+  
+  background-color: antiquewhite;
+  flex-grow: 2;
+  /*height: 200px;
+  width : 200px;*/
+}
+.item3{
+  
+  background-color: darkgray;
+  flex-grow: 1;
+ /* height: 200px;
+  width : 200px;*/
+}
+.item4{
+  
+  background-color: darkcyan;
+  flex-grow: 1;
+ /* height: 200px;
+  width : 200px;*/
+}
+.item5{
+  
+  background-color : antiquewhite;
+/* flex-grow: 2;*/
+  /*height: 200px;
+  width : 200px;*/
+}
+.item6{
+  
+  background-color: darkgray;
+  /*flex-grow: 1;*/ 
+ /* height: 200px;
+  width : 200px;*/
+}
+.item7{
+  display: flex;
+  background-color: darkcyan;
+  flex-grow: 1;
+  /*height: 200px;
+  width : 200px;*/
+}
+.item8{
+  
+  background-color: antiquewhite;
+  flex-grow: 1;
+ /* height: 200px;
+  width : 200px;*/
+}
+.item9{
+  
+  background-color: darkgray;
+  flex-grow: 1;
+  height: 200px;
+  width : 200px;
+}
+.box1{
+  border: 2px solid black;
+  height: 200px;
+  width:550px;
+  display: flex;
+}
+.item10{
+  
+  background-color: darkcyan;
+  flex-shrink: 1;
+  height: 200px;
+  width : 200px;
+}
+.item11{
+  
+  background-color: antiquewhite;
+  flex-shrink: 2;
+  height: 200px;
+  width : 200px;
+}
+.item12{
+  
+  background-color: darkgray;
+  flex-shrink: 0;
+  height: 200px;
+  width : 200px;
+}
+.item13{
+
+  background-color: darkcyan;
+  flex-shrink: 1;
+  height: 200px;
+  width : 200px;
+}
+.item14{
+  
+  background-color: antiquewhite;
+  flex-shrink: 1;
+  height: 200px;
+  width : 200px;
+}
+.item15{
+  
+  background-color: darkgray;
+  flex-shrink: 1;
+  height: 200px;
+  width : 200px;
+}
+.item16{
+
+  background-color: darkcyan;
+  flex-basis: 100px;
+  /*height: 200px;
+  width : 200px;*/
+}
+.item17{
+  
+  background-color: antiquewhite;
+  flex-basis: 200px;
+ /* height: 200px;
+  width : 200px;*/
+}
+.item18{
+  
+  background-color: darkgray;
+  flex-basis: 300px;
+  /*height: 200px;
+  width : 200px;*/
+}
+
+.item19{
+
+  background-color: darkcyan;
+  flex-basis: 300px;
+  
+  width : 200px;
+}
+.item20{
+  
+  background-color: antiquewhite;
+  flex-basis: 300px;
+  
+  width : 200px;
+}
+.item21{
+  
+  background-color: darkgray;
+  
+  flex-basis: 300px;
+  width : 200px;
+}
+
+.item22{
+  
+  background-color: antiquewhite;
+  flex-basis: auto;
+  
+  width : 200px;
+}
+.item23{
+  
+  background-color: darkgray;
+  
+  flex-basis:0 ;
+  width : 200px;
+}
