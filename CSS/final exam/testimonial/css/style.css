@@ -81,7 +81,7 @@ a{
     text-align: center;
 }
 
-.section-title{
+.title{
     font-size: 38px;
     color: #9EC8B9;
     padding-bottom: 100px;
@@ -89,14 +89,14 @@ a{
 
 
 
-.testimonial-grid {
+.grid {
     display: flex;
     gap: 30px;
     justify-content: center;
     flex-wrap: wrap;
 }
 
-.testimonial-card {
+.card {
     background: #9ec8b959;
     border-radius: 10px;
     padding: 25px;
@@ -104,7 +104,7 @@ a{
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
     transition: transform 0.3s;
 }
-.testimonial-card:hover{
+.card:hover{
     width: 350px;
     /* display: flex; */
     /* flex-direction: row-reverse; */
@@ -127,7 +127,7 @@ a{
 
 }
 
-.testimonial-card p{
+.card p{
     z-index: 10;
     font-size: 15px;
     color: #092635;
@@ -137,9 +137,7 @@ a{
 /* .testimonial-card p:hover{
     color: #092635;
 } */
-.second{
-    margin-top: -10px;
-}
+
 .user-info {
     display: flex;
     align-items: center;
