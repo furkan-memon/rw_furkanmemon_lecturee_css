@@ -89,7 +89,7 @@ a{
 
 
 
-.grid {
+.card-section {
     display: flex;
     gap: 30px;
     justify-content: center;
