@@ -1,0 +1,33 @@
+.box {
+    height: 300px;
+    width:300px;
+    border-radius: 50%;
+    border:10px solid black;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    transform: rotate(225deg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #213555;
+  .box1{
+    height: 180px;
+    width:180px;
+    border-radius: 50%;
+    border:10px solid black;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    transform: rotate(180deg);
+    background-color: #FCECDD;
+    
+}
+    
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin-top: 200px; */
+}
+
+  
