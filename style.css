@@ -72,3 +72,21 @@ a:hover {
    border-radius: 10px;
    text-align: center;
 }
+.bootstrap{
+    list-style: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+  padding: 20px;
+  padding: 0;
+  gap: 10px;
+  background-color: #AF3E3E;
+  padding: 20px;
+  border-radius: 20px;
+  margin-top:10px ;
+}
+.bootstrap li {
+   background-color: #EAEBD0;
+   padding: 10px 30px;
+   border-radius: 10px;
+   text-align: center;
+}
